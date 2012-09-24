@@ -1,5 +1,5 @@
 A (Photo) Neutron Splitting Process for GEANT4
-======================================
+==============================================
 
 Based on the Bremsstrahlung splitting process, this neutron splitting process aims apply the same technique to the variance reduction to photo-neutron calculations specifically.
 
