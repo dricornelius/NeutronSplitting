@@ -38,6 +38,8 @@ The process is constructed in the PhysicsList as per usual and added to gammas a
     }
     ...
 
+At the moment the splitting number can be changed directly in the NeutronSplittingProcess constructor, fNSplit = n.
+
 Installation Note
 -----------------
 
