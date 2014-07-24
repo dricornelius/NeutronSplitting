@@ -100,6 +100,7 @@ G4VParticleChange* NeutronSplittingProcess::PostStepDoIt(const G4Track& track, c
         myTrack->SetWeight(weight);
 
         particleChange->AddSecondary(myTrack);
+	delete *iter;
         iter++;
     }
 
